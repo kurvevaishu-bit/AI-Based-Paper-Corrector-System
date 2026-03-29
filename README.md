@@ -1,8 +1,11 @@
 
 # 📝AI-Based Paper Corrector System
 
-An AI-powered system to automatically evaluate descriptive answer sheets using OCR and NLP techniques. This project reduces manual grading effort and improves consistency in evaluation.
-
+```bash
+Author : Vaishu Kurve
+Affiliation: Suryoda College of Engineering and Technology
+Date: March 2026
+```
 ---
 
 ## Abstract
