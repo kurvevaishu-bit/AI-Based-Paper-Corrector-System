@@ -66,7 +66,7 @@ Python 3.8+
 
 ### Project Structure:
 
-ai-paper-corrector/
+``` ai-paper-corrector/
 ├── src/
 │   ├── main.py              # Entry point
 │   ├── ocr.py               # Text extraction logic
@@ -81,7 +81,7 @@ ai-paper-corrector/
 ├── output/
 │   └── result_report.txt
 ├── README.md
-└── requirements.txt
+└── requirements.txt '''
 
 ### Run the Project:
 git clone https://github.com/YOUR_USERNAME/ai-paper-corrector.git
