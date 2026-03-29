@@ -9,9 +9,9 @@ In educational institutions, evaluating descriptive answer sheets is a time-cons
 
 Unlike MCQ-based systems, descriptive answer evaluation requires understanding text meaning, keyword importance, and answer completeness. By integrating OCR and NLP, the system can extract and analyze answers intelligently.
 
-Objectives:
-Extract text from answer sheet images using OCR
-Identify important keywords in student answers
-Compare answers with predefined answer keys
-Assign marks based on correctness and relevance
-Generate a detailed evaluation report
+# Objectives:
+1. Extract text from answer sheet images using OCR
+2. Identify important keywords in student answers
+3. Compare answers with predefined answer keys
+4. Assign marks based on correctness and relevance
+5. Generate a detailed evaluation report
