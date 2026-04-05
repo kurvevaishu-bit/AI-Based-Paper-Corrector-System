@@ -1,0 +1,3 @@
+q1: photosynthesis | keywords: sunlight, chlorophyll, glucose | marks: 5
+q2: water cycle | keywords: evaporation, condensation, clouds | marks: 5
+q3: newton law | keywords: force, mass, acceleration | marks: 5
